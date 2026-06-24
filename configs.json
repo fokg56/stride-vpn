@@ -1,0 +1,17 @@
+[
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440000@example.com:443",
+    "link": "vless://550e8400-e29b-41d4-a716-446655440000@example.com:443?security=tls\u0026fp=chrome#TestServer",
+    "remark": "TestServer"
+  },
+  {
+    "id": "11111111-1111-1111-1111-111111111111@server.test.com:8443",
+    "link": "vless://11111111-1111-1111-1111-111111111111@server.test.com:8443?security=reality\u0026sni=www.google.com\u0026fp=firefox\u0026pbk=testpublickey\u0026sid=abcd1234#RealityTest",
+    "remark": "RealityTest"
+  },
+  {
+    "id": "883e028c-4e41-43c0-8823-c2a107c40c60@82.25.61.107:8446",
+    "link": "vless://883e028c-4e41-43c0-8823-c2a107c40c60@82.25.61.107:8446?fp=chrome\u0026type=ws\u0026path=%2Fwsfresh#PHONE+VLESS+WS+8446-Erik",
+    "remark": "PHONE VLESS WS 8446-Erik"
+  }
+]
