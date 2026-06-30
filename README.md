@@ -1,6 +1,7 @@
-# Stride VPN
+<img width="323" height="350" alt="stride logo" src="https://github.com/user-attachments/assets/6a39a824-c889-46d0-9d6f-4f9548f99165" />
 
-![Stride VPN](assets/logo.png)
+
+## STRIDE-VPN
 
 Windows VPN-клиент на базе xray-core. TUN и прокси-режим, карта мира, автоматический импорт подписок, тёмная/светлая тема.
 
