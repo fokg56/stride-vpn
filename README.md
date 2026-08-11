@@ -74,7 +74,7 @@ WebSocket (`ws`), XHTTP (`xhttp`, бывший splithttp), gRPC (`grpc`), mKCP (
 - Кнопка **«Ping all»** — пинг всех серверов разом.
 - Убран скриншот-карта мира — интерфейс стал проще.
 
-<img width="793" height="667" alt="Снимок экрана 2026-08-11 070908" src="https://github.com/user-attachments/assets/e0ea57ce-bdc6-41db-a6ad-acb6991ab8e3" /> <img width="903" height="718" alt="Снимок экрана 2026-08-11 070925" src="https://github.com/user-attachments/assets/d5182d71-63f1-4c98-a482-8839c71816e6" />
+<img width="903" height="718" alt="Снимок экрана 2026-08-11 070925" src="https://github.com/user-attachments/assets/d5182d71-63f1-4c98-a482-8839c71816e6" />
 
 ---
 
